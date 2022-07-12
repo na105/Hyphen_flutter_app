@@ -12,7 +12,7 @@ Users can:
   
   Hyphen application:
   
-![Screenshot_1657584158](https://user-images.githubusercontent.com/71798241/178379027-1d9a9a62-bdeb-48bd-ab47-7e3d4e34ed11.png)
+![Screenshot_1657584158](https://user-images.githubusercontent.com/71798241/178379027-1d9a9a62-bdeb-48bd-ab47-7e3d4e34ed11.png =250x250)
 ( Sign in screen )
 
 
