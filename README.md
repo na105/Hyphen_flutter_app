@@ -39,3 +39,15 @@ Creating new account:
 <img src="https://user-images.githubusercontent.com/71798241/178379182-a45e4ad0-de1a-48af-b4cf-67ca52ba3f2e.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178379189-e223040e-fc0e-4f9d-bb7a-dd132b8a0dc8.png" width="250" height="500" />
 </p>
+
+<br><br>
+
+Home screen and comments:
+<p float="left">
+<img src="https://user-images.githubusercontent.com/71798241/178542716-ff81bb6f-8855-4335-95aa-156043caf916.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178542884-aada5328-ae60-4009-843e-37cfbb618f91.png" width="250" height="500" />
+</p>
+<img src="" width="250" height="500" />
+<img src="" width="250" height="500" />
+<img src="" width="250" height="500" />
+<img src="" width="250" height="500" />
