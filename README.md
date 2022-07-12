@@ -14,12 +14,9 @@ Users can:
  
  Accessing exisiting account:
 
-<img align="left" img src="https://user-images.githubusercontent.com/71798241/178380665-e0062f5d-e05e-463f-bd93-a14618fb71b6.png" width="250" height="500" /> 
-
---> Sign in screen
+<img src="https://user-images.githubusercontent.com/71798241/178380665-e0062f5d-e05e-463f-bd93-a14618fb71b6.png" width="250" height="500" /> 
 <br clear="left"/>
-
---> Sign in screen
+- Sign in screen
  
  
  
