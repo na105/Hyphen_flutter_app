@@ -20,6 +20,8 @@ Side Note:
   <p float="left">
   <img src="https://user-images.githubusercontent.com/71798241/178548700-71d99ecd-1ede-4cf2-97ee-94f8a0650510.png" width="100" height="100" />
     - This button is called "Mashup" for the purpose of allowing users to use other users' images to add their own twist and creativity.
+  </p>
+  <p float="left">
   <img src="https://user-images.githubusercontent.com/71798241/178548744-9b2cf933-8a7d-46c2-8e20-268cbb148d1b.png" width="100" height="100" />
     - This button is called "Pin" for the purpose of allowing users to save their favorite images and found in their profile. Users cannot see others users' pins except their own 
   </p>
