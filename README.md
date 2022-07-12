@@ -15,14 +15,12 @@ Users can:
  Accessing exisiting account:
  
  --> Sign in screen
- 
  <img src="https://user-images.githubusercontent.com/71798241/178380665-e0062f5d-e05e-463f-bd93-a14618fb71b6.png" width="250" height="500" /> 
  
  
 Creating new account:
 
 --> Sign up screen 
-
 <img src="https://user-images.githubusercontent.com/71798241/178379159-92d83d38-f0ae-4a06-84fb-4c73f058de65.png" width="250" height="500" />
 --> Email verification 
 <img src="https://user-images.githubusercontent.com/71798241/178379205-a53da2e5-9ca0-49fc-bb02-f6447b9d88d6.png" width="250" height="500" />
