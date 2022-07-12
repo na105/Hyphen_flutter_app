@@ -46,10 +46,15 @@ Creating new account:
 Home screen and comments:
 <p float="left">
 <img src="https://user-images.githubusercontent.com/71798241/178542716-ff81bb6f-8855-4335-95aa-156043caf916.png" width="250" height="500" />
-  <br><br>
 <img src="https://user-images.githubusercontent.com/71798241/178542884-aada5328-ae60-4009-843e-37cfbb618f91.png" width="250" height="500" />
 </p>
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
+
+<br><br>
+
+Chat screen:
+<p float="left">
+<img src="https://user-images.githubusercontent.com/71798241/178543904-5b7ee1f8-f142-4fb8-a147-2290fc2359b2.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178544014-6f860eb1-94c1-4be2-912b-4149497d234f.png" width="250" height="500" />
+</p>
 <img src="" width="250" height="500" />
 <img src="" width="250" height="500" />
