@@ -94,4 +94,6 @@ Profile and settings screens
 <br><br>
 
 Search other users (to view their profiles or follow them):
+<p float="left">
 <img src="https://user-images.githubusercontent.com/71798241/178547203-75046a20-c2d6-45f8-84f3-f42a5b4fb90f.png" width="250" height="500" />
+</p>
