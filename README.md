@@ -13,31 +13,27 @@ Users can:
   Hyphen application:
  
  Accessing exisiting account:
- 
---> Sign in screen
 
 <img src="https://user-images.githubusercontent.com/71798241/178380665-e0062f5d-e05e-463f-bd93-a14618fb71b6.png" width="250" height="500" /> 
- 
+--> Sign in screen
  
  
  
  
 Creating new account:
 
+<img src="https://user-images.githubusercontent.com/71798241/178379159-92d83d38-f0ae-4a06-84fb-4c73f058de65.png" width="250" height="500" />
 --> Sign up screen 
 
-<img src="https://user-images.githubusercontent.com/71798241/178379159-92d83d38-f0ae-4a06-84fb-4c73f058de65.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178379205-a53da2e5-9ca0-49fc-bb02-f6447b9d88d6.png" width="250" height="500" />
 --> Email verification 
 
-<img src="https://user-images.githubusercontent.com/71798241/178379205-a53da2e5-9ca0-49fc-bb02-f6447b9d88d6.png" width="250" height="500" />
---> Setting up profile 
-
 <img src="https://user-images.githubusercontent.com/71798241/178379170-e0f8c9e6-048a-4e9e-82cf-b6bbdebf253b.png" width="250" height="500" />
---> Intro Screens
+--> Setting up profile 
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/71798241/178379174-df3e1d0f-43d7-447c-ae48-480ee2678577.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178379182-a45e4ad0-de1a-48af-b4cf-67ca52ba3f2e.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178379189-e223040e-fc0e-4f9d-bb7a-dd132b8a0dc8.png" width="250" height="500" />
 </p>
-
+--> Intro Screens
