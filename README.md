@@ -1,5 +1,5 @@
-<p float="right">
-<img src="https://user-images.githubusercontent.com/71798241/178548612-0eed531b-1b1a-4bc1-8e17-b7d09db89290.png" width="100" height="100" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71798241/178548612-0eed531b-1b1a-4bc1-8e17-b7d09db89290.png" width="150" height="100" />
 </p>
 <br>
 Hyphen is a flutter application project. The app is functioned by flutter as its front-end and firebase as its back-end.
