@@ -56,5 +56,14 @@ Chat screen:
 <img src="https://user-images.githubusercontent.com/71798241/178543904-5b7ee1f8-f142-4fb8-a147-2290fc2359b2.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178544014-6f860eb1-94c1-4be2-912b-4149497d234f.png" width="250" height="500" />
 </p>
+
+<br><br>
+
+Posting Images from user's device or camera:
+  - Users have the option to give permission for other users to use their content by clicking mashable; if not then users choose unmashable.
+<img src="https://user-images.githubusercontent.com/71798241/178544326-41782818-1820-450a-8a4a-d38c47cb4033.png" width="250" height="500" />
+<img src="!https://user-images.githubusercontent.com/71798241/178544433-89f8fca1-b148-48f4-8445-f6b8c9b5ce8e.png" width="250" height="500" />
+<img src="" width="250" height="500" />
+<img src="" width="250" height="500" />
 <img src="" width="250" height="500" />
 <img src="" width="250" height="500" />
