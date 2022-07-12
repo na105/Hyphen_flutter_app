@@ -1,7 +1,7 @@
-<p float="center">
+<p float="right">
 <img src="https://user-images.githubusercontent.com/71798241/178548612-0eed531b-1b1a-4bc1-8e17-b7d09db89290.png" width="100" height="100" />
 </p>
-<br><br>
+<br>
 Hyphen is a flutter application project. The app is functioned by flutter as its front-end and firebase as its back-end.
 This application is for social and interacting purposes. 
 This application's UI/UX designs were first initialized by both Figma and Canva applications.
@@ -14,6 +14,7 @@ Users can:
   - Collaborate with other users for creating or editing images in a virtual room 
   - Interacting with other users such as chatting, following, liking others' work, etc.
 
+<br><br><br>
 
 Side Note:
 - Users would find two new buttons as shown below:
@@ -25,6 +26,8 @@ Side Note:
   <img src="https://user-images.githubusercontent.com/71798241/178548744-9b2cf933-8a7d-46c2-8e20-268cbb148d1b.png" width="100" height="100" />
     - This button is called "Pin" for the purpose of allowing users to save their favorite images and found in their profile. Users cannot see others users' pins except their own 
   </p>
+  
+  <br><br><br>
   
  Hyphen application:
  
