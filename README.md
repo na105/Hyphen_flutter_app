@@ -6,6 +6,14 @@ Hyphen is a flutter application project. The app is functioned by flutter as its
 This application is for social and interacting purposes. 
 This application's UI/UX designs were first initialized by both Figma and Canva applications.
 
+<br><br>
+
+This flutter app has been tested and employed by:
+  - android emulator and physical android smartphones
+  - ios emulator 
+
+<br><br>
+
 Users can:
   - Create accounts 
   - Post pictures 
