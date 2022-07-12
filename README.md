@@ -18,7 +18,7 @@ Users can:
  
  <br clear="left"/>
 
-and some text that is below the image (without an obnoxious number of <br /> tags).
+- Sign in screen
  
  
  
