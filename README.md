@@ -12,7 +12,7 @@ Users can:
   
   Hyphen application:
   
- <img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/71798241/178380292-e724b68a-23db-45ea-a306-941ada0e2c7a.png)" width="200" height="400" />
+ <img src="https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/71798241/178380292-e724b68a-23db-45ea-a306-941ada0e2c7a.png)" width="200" height="400" />
 ( Sign in screen )
 
 
