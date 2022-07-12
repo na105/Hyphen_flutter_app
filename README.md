@@ -29,9 +29,9 @@ Creating new account:
 --> Setting up profile 
 <img src="https://user-images.githubusercontent.com/71798241/178379170-e0f8c9e6-048a-4e9e-82cf-b6bbdebf253b.png" width="250" height="500" />
 --> Intro Screens
-<img align="left" img src="https://user-images.githubusercontent.com/71798241/178379174-df3e1d0f-43d7-447c-ae48-480ee2678577.png" width="250" height="500" />
-<br clear="left"/>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/71798241/178379174-df3e1d0f-43d7-447c-ae48-480ee2678577.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178379182-a45e4ad0-de1a-48af-b4cf-67ca52ba3f2e.png" width="250" height="500" />
-<br clear="left"/>
 <img src="https://user-images.githubusercontent.com/71798241/178379189-e223040e-fc0e-4f9d-bb7a-dd132b8a0dc8.png" width="250" height="500" />
+</p>
 
