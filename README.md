@@ -73,14 +73,25 @@ Creating a room for a user to create their art by themselves or allowing other u
     - Blank screen 
     - With other users' accessible posts
     - With images provided by Pexels API
+<p float="left">
 <img src="https://user-images.githubusercontent.com/71798241/178546190-423fe6af-c27b-49ea-af49-730f7e09dae3.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178546258-1639e1ef-b944-4686-b986-6c1b4c3cedad.png" width="250" height="500" />
 <img src="https://user-images.githubusercontent.com/71798241/178546289-5c44548f-b795-4936-8deb-5a7f219b065b.png" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
-<img src="" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178546500-394639cb-f568-4276-bd6f-f87c5b11d9cb.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178546596-bf616431-dd8a-4521-895f-6e3d4b5f4e08.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178546644-b9cc26d2-84d8-4ce3-ac4a-d14aa4b8d5f6.png" width="250" height="500" />
+</p>
+
+<br><br>
+
+Profile and settings screens
+<p float="left">
+<img src="https://user-images.githubusercontent.com/71798241/178546882-64537ee2-0ce9-461c-84ac-69ac99cf19c3.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178546926-d8dcef81-c26b-4f67-81b4-52ffebb78021.png" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71798241/178547011-75e77017-3877-4728-8c3c-6a98395e6feb.png" width="250" height="500" />
+</p>
+
+<br><br>
+
+Search other users (to view their profiles or follow them):
+<img src="https://user-images.githubusercontent.com/71798241/178547203-75046a20-c2d6-45f8-84f3-f42a5b4fb90f.png" width="250" height="500" />
