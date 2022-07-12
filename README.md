@@ -5,7 +5,8 @@ This application's UI/UX designs were first initialized by both Figma and Canva 
 Users can:
   - Create accounts 
   - Post pictures 
-  - Create images 
+  - Create images
+  - Use other users' images (if applicable) and mash up with your cerativity 
   - Collaborate with other users for creating or editing images in a virtual room 
   - Interacting with other users such as chatting, following, liking others' work, etc.
   
@@ -45,6 +46,7 @@ Creating new account:
 Home screen and comments:
 <p float="left">
 <img src="https://user-images.githubusercontent.com/71798241/178542716-ff81bb6f-8855-4335-95aa-156043caf916.png" width="250" height="500" />
+  <br><br>
 <img src="https://user-images.githubusercontent.com/71798241/178542884-aada5328-ae60-4009-843e-37cfbb618f91.png" width="250" height="500" />
 </p>
 <img src="" width="250" height="500" />
